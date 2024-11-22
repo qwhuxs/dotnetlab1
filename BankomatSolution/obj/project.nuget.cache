@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "OC9hD+/27/E=",
+  "success": false,
+  "projectFilePath": "D:\\My works\\Робота\\Н\\моє\\lab1\\BankomatSolution\\BankomatConsoleApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\My works\\Робота\\Н\\моє\\lab1\\BancomatClassLibrary\\BancomatClassLibrary.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\My works\\Робота\\Н\\моє\\lab1\\BancomatClassLibrary\\BancomatClassLibrary.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
